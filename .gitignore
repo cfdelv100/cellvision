@@ -7,6 +7,8 @@ __pycache__/
 data/raw/
 data/processed/
 
+config.py
+
 *.pth
 *.pt
 *.onnx
