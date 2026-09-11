@@ -12,5 +12,5 @@ config.py
 *.pth
 *.pt
 *.onnx
-
+.csv
 .env
