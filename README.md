@@ -1,2 +1,2 @@
-# cellvision
-Cell Vision for training models.
+# Cell Vision
+Cell Vision for training models. This application's purpose is to analyze images selected of blood cell images from a microscopic view point, and identify and display statistics of the images. 
